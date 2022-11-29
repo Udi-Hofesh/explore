@@ -73,6 +73,8 @@
           
             "rust-lang/rust",
           
+            "komodorio/helm-dashboard",
+          
             "HospitalRun/hospitalrun-frontend",
           
             "Homebrew/brew",
@@ -486,6 +488,8 @@
       },
     {
         "items": [
+          
+            "komodorio/helm-dashboard",
           
             "puppetlabs/puppet",
           
@@ -909,7 +913,7 @@
           
             "github/government.github.com",
           
-            "electron/electronjs.org",
+            "electron/electronjs.org-old",
           
             "square/square.github.io",
           
@@ -1569,9 +1573,9 @@
           
             "alamkanak/Android-Week-View",
           
-            "appzcoder/crud-generator",
+            "sohelamin/crud-generator",
           
-            "appzcoder/laravel-admin",
+            "sohelamin/laravel-admin",
           
             "halfo/lambda-mod-zsh-theme",
           
@@ -2140,6 +2144,8 @@
       },
     {
         "items": [
+          
+            "komodorio/helm-dashboard",
           
             "yaronn/blessed-contrib",
           
@@ -2887,7 +2893,7 @@
           
             "dukechronicle/chronline",
           
-            "BloombergMedia/whatiscode",
+            "BloombergGraphics/whatiscode",
           
             "times/cardkit",
           
@@ -2980,6 +2986,8 @@
       },
     {
         "items": [
+          
+            "komodorio/helm-dashboard.github.com",
           
             "adobe/adobe.github.com",
           
@@ -10074,6 +10082,31 @@
       },
     
       {
+        "topic_name": "flightgear",
+        "created_by": "David Murr, Curt Olson, Michael Basler, Eric Korpela",
+        "display_name": "FlightGear",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/flightgear/flightgear.png",
+        
+        "released": "July 17, 1997",
+        "short_description": "FlightGear is a free to download flight simulator software.",
+        "url": "https://github.com/topics/flightgear",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/FlightGear",
+        "related": [
+          
+            "flightgear-addon, flightgear-aircraft, flightgear-scenery, flightgear-aircraft-models, flightgear-scripts"
+          
+        ],
+        "aliases": [
+          
+            "flightgear-flight-simulator, flightgear-simulator"
+          
+        ],
+        "content": "<p>FlightGear Flight Simulator (often shortened to FlightGear or FGFS) is a free, open source multi-platform flight simulator developed by the FlightGear project since 1997.</p>\n\n<p>David Murr started the project on April 8, 1996. The project had its first release in 1997 and continued in development. It has specific builds for a variety of operating systems including Microsoft Windows, macOS, Linux, IRIX, and Solaris.</p>\n\n<p>FlightGear is an atmospheric and orbital flight simulator used in aerospace research and industry. Its flight dynamics engine (JSBSim) is used in a 2015 NASA benchmark to judge new simulation code to the standards of the space industry.</p>\n"
+      },
+    
+      {
         "topic_name": "fluent-design",
         "created_by": "Microsoft",
         "display_name": "Fluent Design System",
@@ -14458,6 +14491,29 @@
           
         ],
         "content": "<p>Open source plugins to be used with the Mill Build Tool.</p>\n"
+      },
+    
+      {
+        "topic_name": "minecraft-bedrock-edition",
+        "created_by": "Mojang Studios",
+        "display_name": "Minecraft Bedrock Edition",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/minecraft-bedrock-edition/minecraft-bedrock-edition.png",
+        
+        "released": "August 16, 2011",
+        "short_description": "Minecraft is a sandbox video game.",
+        "url": "https://github.com/topics/minecraft-bedrock-edition",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Minecraft",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "bedrock-edition, mcpe, mcbe, minecraft-addon"
+          
+        ],
+        "content": "<p>Published by Mojang, Minecraft is a game that allows its players virtually unlimited creative and building authority in their 3D cube world.</p>\n\n<p>Minecraft Bedrock Edition is the version of the game released for mobile devices, gaming consoles, and Windows devices.</p>\n"
       },
     
       {
@@ -21047,6 +21103,27 @@
       },
     
       {
+        "topic_name": "twrp",
+        "created_by": "Team Win",
+        "display_name": "TWRP (software)",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/twrp/twrp.png",
+        
+        "released": null,
+        "short_description": "Team Win Recovery Project (TWRP), pronounced \"twerp\", is an open-source software custom recovery image for Android-based devices.",
+        "url": "https://github.com/topics/twrp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/TWRP_(software)",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Team Win Recovery Project (TWRP), pronounced “twerp”, is an open source software custom recovery image for Android-based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system which are functions often unsupported by stock recovery images. It is, therefore, often installed when flashing, installing, or rooting Android devices, although it isn’t dependent on a device being rooted prior to installation.</p>\n"
+      },
+    
+      {
         "topic_name": "typescript",
         "created_by": "Microsoft",
         "display_name": "TypeScript",
@@ -21092,6 +21169,27 @@
           
         ],
         "content": "<p>Ubuntu builds upon Debian’s architecture to provide a Linux server and desktop operating system. Ubuntu prioritizes security, as the majority of its network ports are closed by default.</p>\n"
+      },
+    
+      {
+        "topic_name": "uefi",
+        "created_by": "Intel",
+        "display_name": "UEFI",
+        "github_url": null,
+        "logo": 
+          "https://explore-feed.github.com/topics/uefi/uefi.png",
+        
+        "released": null,
+        "short_description": "UEFI is a publicly available specification that defines a software interface between an operating system and platform firmware.",
+        "url": "https://github.com/topics/uefi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/UEFI",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>The Unified Extensible Firmware Interface (UEFI) is a publicly available specification that defines a software interface between an operating system and platform firmware. UEFI replaces the legacy Basic Input/Output System (BIOS) boot firmware originally present in all IBM PC-compatible personal computers, with most UEFI firmware implementations providing support for legacy BIOS services. UEFI can support remote diagnostics and repair of computers, even with no operating system installed.</p>\n"
       },
     
       {
@@ -21894,6 +21992,29 @@
           
         ],
         "content": "<p>A game played in Virtual Reality.</p>\n"
+      },
+    
+      {
+        "topic_name": "vscode-extension",
+        "created_by": null,
+        "display_name": "VS Code Extension",
+        "github_url": "https://github.com/microsoft/vscode-extension-samples",
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "An extension for the Visual Studio Code editor.",
+        "url": "https://github.com/topics/vscode-extension",
+        "wikipedia_url": null,
+        "related": [
+          
+            "visual-studio-code"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Visual Studio Code is a free code editor from Microsoft, based on open source.</p>\n\n<p>Visual Studio Code is built with extensibility in mind. From the UI to the editing experience, almost every part of VS Code can be customized and enhanced through the Extension API.</p>\n"
       },
     
       {
